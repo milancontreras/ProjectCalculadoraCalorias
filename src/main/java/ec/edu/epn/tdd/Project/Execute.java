@@ -10,6 +10,7 @@ public class   Execute {
         //Dieta dieta = new Dieta(calorías0, personaM);
         //System.out.println("=====================================================");
        // dieta.RealizarDieta(1);
+        System.out.println("Segundo commin and Push");
 
     }
 }
