@@ -1,6 +1,7 @@
 package ec.edu.epn.tdd.Project;
 
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Scanner;
 
 
@@ -67,6 +68,7 @@ public class Dieta {
 
         String[][] tabla;
         Excel DocDesayuno = new Excel();
+        String Archivo="../Desayuno.xls";
 
         switch(HoraComida)
         {
@@ -74,7 +76,8 @@ public class Dieta {
             case 0 :
                 int ComidaDesayuno=0;
 
-                DocDesayuno.setInputFile("src/main/resources/Desayuno.xls");
+                DocDesayuno.setInputFile(Archivo);
+
                 try{
                     tabla=DocDesayuno.read();
                     seleccionarAlimentos(tabla,ComidaDesayuno,AlimentoSeleccionadoTeclado);
@@ -88,7 +91,7 @@ public class Dieta {
             case 1 :
                 int ComidaMediaMañana=0;
 
-                DocDesayuno.setInputFile("src/main/resources/Desayuno.xls");
+                DocDesayuno.setInputFile(Archivo);
                 try{
                     tabla=DocDesayuno.read();
                     seleccionarAlimentos(tabla,ComidaMediaMañana,AlimentoSeleccionadoTeclado);
@@ -101,7 +104,7 @@ public class Dieta {
             case 2 :
                 int ComidaAlmuerzo=0;
 
-                DocDesayuno.setInputFile("src/main/resources/Desayuno.xls");
+                DocDesayuno.setInputFile(Archivo);
                 try{
                     tabla=DocDesayuno.read();
                     seleccionarAlimentos(tabla,ComidaAlmuerzo,AlimentoSeleccionadoTeclado);
@@ -114,7 +117,7 @@ public class Dieta {
             case 3 :
                 int ComidaMediaTarde=0;
 
-                DocDesayuno.setInputFile("src/main/resources/Desayuno.xls");
+                DocDesayuno.setInputFile(Archivo);
                 try{
                     tabla=DocDesayuno.read();
                     seleccionarAlimentos(tabla,ComidaMediaTarde,AlimentoSeleccionadoTeclado);
@@ -127,7 +130,7 @@ public class Dieta {
             case 4 :
                 int ComidaMerienda=0;
 
-                DocDesayuno.setInputFile("src/main/resources/Desayuno.xls");
+                DocDesayuno.setInputFile(Archivo);
                 try{
                     tabla=DocDesayuno.read();
                     seleccionarAlimentos(tabla,ComidaMerienda,AlimentoSeleccionadoTeclado);
