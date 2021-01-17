@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="ec.edu.epn.tdd.Project.ISaludTest" time="0.606" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="ec.edu.epn.tdd.Project.ISaludTest" time="0.524" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2020.3.1"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -63,6 +63,6 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ec.edu.epn.tdd.Project.ISaludTest" name="given_one_double_icm_then_calculate_ideal_weight" time="0.605"/>
-  <testcase classname="ec.edu.epn.tdd.Project.ISaludTest" name="given_one_double_high_then_overwigth" time="0.001"/>
+  <testcase classname="ec.edu.epn.tdd.Project.ISaludTest" name="given_one_double_icm_then_calculate_ideal_weight" time="0.522"/>
+  <testcase classname="ec.edu.epn.tdd.Project.ISaludTest" name="given_one_double_high_then_overwigth" time="0.002"/>
 </testsuite>

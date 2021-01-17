@@ -107,7 +107,29 @@ public class Persona //Nombre de la clase
                 ", edad=" + edad +
                 ", ejercicio='" + ejercicio + '\'' +
                 '}';
+
     }
+
+    public String personaGrafico() {
+        String ejercicioString="";
+        if (getEjercicio() == 1) ejercicioString="Poco o ningun ejercicio";
+        else if (getEjercicio() == 2) ejercicioString="Ejercicio ligero (1-3 dias a la semana)" ;
+        else if (getEjercicio() == 3) ejercicioString="Ejercicio Moderado (3-5 dias a la semana)";
+        else if (getEjercicio() == 4) ejercicioString="Ejercicio Fuerte (6-7 dias a la semana)";
+        else if (getEjercicio() == 5) ejercicioString="Ejercicio muy fuerte (dos veces al dia, entrenamientos muy duros)";
+
+        return "Persona:" +
+                "\nid_Persona=" + id_Persona +
+                "\nNombre='" + nombre  +
+                "\nApellido='" + apellidos  +
+                "\nPeso=" + peso + " kg"+
+                "\nAltura=" + altura + " cm"+
+                "\nEdad=" + edad +" años"+
+                "\nEjercicio='" + ejercicioString
+                ;
+    }
+
+
 
 
 }

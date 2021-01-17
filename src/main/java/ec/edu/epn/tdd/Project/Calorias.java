@@ -42,8 +42,8 @@ public class Calorias {
         if (persona.getEjercicio() == 1) return calorias * 1.2;
         else if (persona.getEjercicio() == 2) return calorias * 1.375;
         else if (persona.getEjercicio() == 3) return calorias * 1.55;
-        else if (persona.getEjercicio() == 3) return calorias * 1.725;
-        else if (persona.getEjercicio() == 4) return calorias * 1.9;
+        else if (persona.getEjercicio() == 4) return calorias * 1.725;
+        else if (persona.getEjercicio() == 5) return calorias * 1.9;
         return calorias;
     }
 
