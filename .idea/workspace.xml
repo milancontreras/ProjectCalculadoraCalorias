@@ -9,13 +9,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/Project-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Dieta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Dieta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaParameterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaParameterTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.ISaludTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.ISaludTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.CaloriasTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.CaloriasTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaParameterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaParameterTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.ISaludTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.ISaludTest.txt" afterDir="false" />
@@ -189,7 +190,7 @@
       <workItem from="1610593353254" duration="1292000" />
       <workItem from="1610719422700" duration="1392000" />
       <workItem from="1610727454909" duration="4634000" />
-      <workItem from="1610896498235" duration="13920000" />
+      <workItem from="1610896498235" duration="14221000" />
     </task>
     <task id="LOCAL-00001" summary="PrimerPruebaProyecto">
       <created>1610731337264</created>
@@ -261,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610902125418</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit and push #9">
+      <created>1610910792954</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610910792954</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
