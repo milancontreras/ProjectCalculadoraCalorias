@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="249a8f31-bb63-4ee8-a89e-104aba12bdff" name="Default Changelist" comment="Print tercer Commit and push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.PersonaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.PersonaTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +174,7 @@
       <workItem from="1610593353254" duration="1292000" />
       <workItem from="1610719422700" duration="1392000" />
       <workItem from="1610727454909" duration="4634000" />
-      <workItem from="1610896498235" duration="3495000" />
+      <workItem from="1610896498235" duration="5402000" />
     </task>
     <task id="LOCAL-00001" summary="PrimerPruebaProyecto">
       <created>1610731337264</created>
@@ -230,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610898756017</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit and push #7">
+      <created>1610900236251</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610900236251</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +256,7 @@
     <MESSAGE value="Print tercer Commit and push" />
     <MESSAGE value="Commit and push #4" />
     <MESSAGE value="Commit and push #6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit and push #6" />
+    <MESSAGE value="Commit and push #7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit and push #7" />
   </component>
 </project>
