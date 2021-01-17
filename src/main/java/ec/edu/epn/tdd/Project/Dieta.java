@@ -206,8 +206,9 @@ public class Dieta {
         }
 
 
-        System.out.println("Su total de consumo calorico para su " + identificadorComida[Comida] + " desayuno es de: " + sumaDecalorias);
-        System.out.println("Alimentos de su " + identificadorComida[Comida] + ":");
+        System.out.println("\n=====================================================");
+        System.out.println("\nSu total de consumo calorico para su " + identificadorComida[Comida] + " es de: " + sumaDecalorias +" Kcal");
+        System.out.println("Alimentos sleccionados para su " + identificadorComida[Comida] + ":");
         for (int i = 0; i < contador; i++) {
             System.out.print(seleccion[i] + ", ");
         }

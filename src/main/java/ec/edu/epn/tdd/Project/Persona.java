@@ -119,13 +119,13 @@ public class Persona //Nombre de la clase
         else if (getEjercicio() == 5) ejercicioString="Ejercicio muy fuerte (dos veces al dia, entrenamientos muy duros)";
 
         return "Persona:" +
-                "\nid_Persona=" + id_Persona +
-                "\nNombre='" + nombre  +
-                "\nApellido='" + apellidos  +
-                "\nPeso=" + peso + " kg"+
-                "\nAltura=" + altura + " cm"+
-                "\nEdad=" + edad +" años"+
-                "\nEjercicio='" + ejercicioString
+                "\nid_Persona=\t" + id_Persona +
+                "\nNombre=\t\t" + nombre  +
+                "\nApellido=\t" + apellidos  +
+                "\nPeso=\t\t" + peso + " kg"+
+                "\nAltura=\t\t" + altura + " cm"+
+                "\nEdad=\t\t" + edad +" años"+
+                "\nEjercicio=\t" + ejercicioString
                 ;
     }
 

@@ -6,22 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="249a8f31-bb63-4ee8-a89e-104aba12bdff" name="Default Changelist" comment="Print tercer Commit and push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Calorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Calorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Dieta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Execute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/tdd/Project/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Project-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Project-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Calorias.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Calorias.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Execute.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Persona.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ec/edu/epn/tdd/Project/Persona.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.CaloriasTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.CaloriasTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaParameterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaParameterTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.DietaTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.ISaludTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.tdd.Project.ISaludTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.CaloriasTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.CaloriasTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaParameterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaParameterTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.DietaTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.ISaludTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.ISaludTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.PersonaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.tdd.Project.PersonaTest.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +179,7 @@
       <workItem from="1610593353254" duration="1292000" />
       <workItem from="1610719422700" duration="1392000" />
       <workItem from="1610727454909" duration="4634000" />
-      <workItem from="1610896498235" duration="1861000" />
+      <workItem from="1610896498235" duration="3495000" />
     </task>
     <task id="LOCAL-00001" summary="PrimerPruebaProyecto">
       <created>1610731337264</created>
@@ -228,17 +216,44 @@
       <option name="project" value="LOCAL" />
       <updated>1610732873112</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit and push #4">
+      <created>1610898556835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610898556835</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit and push #6">
+      <created>1610898756017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610898756017</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primera Prueba" />
     <MESSAGE value="PrimerPruebaProyecto" />
     <MESSAGE value="Print Segundo Commit and push" />
     <MESSAGE value="Print tercer Commit and push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print tercer Commit and push" />
+    <MESSAGE value="Commit and push #4" />
+    <MESSAGE value="Commit and push #6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit and push #6" />
   </component>
 </project>
